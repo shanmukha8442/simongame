@@ -1,0 +1,45 @@
+body {
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+.btn {
+  height: 150px;
+  width: 150px;
+  border: solid 2px black;
+  margin: 1.5rem;
+  border-radius: 0.5cm;
+}
+
+.btn-container {
+  display: flex;
+  margin-left: 450px;
+  margin-top: 50px;
+}
+
+.y {
+  background-color: yellow;
+}
+
+.b {
+  background-color: blue;
+}
+
+.g {
+  background-color: rgb(255, 47, 151);
+}
+
+.p {
+  background-color: purple;
+}
+
+.flash {
+  background-color: white;
+}
+
+.userflash {
+  background-color: green;
+}
+.r{
+  background-color: rgb(255, 127, 127);
+}
